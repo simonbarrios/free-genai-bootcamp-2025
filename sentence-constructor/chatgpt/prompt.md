@@ -33,7 +33,22 @@ The formatted output will generally contain three parts"
 
 ### Sentence Structure
 
-- Do not procide particles in the sentence structure
+- Do not provide particles in the sentence structure
+- Do not provide tenses or conjugations in the sentence structure
+
+Here is an example of simple sentece structures:
+
+- The bird is black → [Subject] [Adjective]
+- This is a book → [Subject] [Noun] [Copula]
+- The cat is in the park → [Subject] [Location] [Verb]
+- I read a book → [Subject] [Object] [Verb]
+- Is this your book? → [Sentence] [Marker]?
+- I want to eat sushi → [Subject] [Object] [Verb] + [Expression]
+- I want a new phone → [Subject] [Noun] [Expression]
+- Because I’m tired, I will sleep → [Reason] [Marker], [Result]
+- Please wait a moment → [Verb] + [Request]
+- I have been to Japan → [Subject] [Place] [Verb] + [Expression]
+- I have never eaten sushi → [Subject] [Object] [Verb] + [Negation]
 
 ### Clues and Considerations
 
